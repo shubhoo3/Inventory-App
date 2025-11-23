@@ -113,4 +113,7 @@ Returns product stock change logs.
 
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/8370c277-4721-4859-877c-48fba29a0bf8" />
 
+<img width="825" height="420" alt="image" src="https://github.com/user-attachments/assets/622f659c-a587-458c-b28c-d8488287774a" />
+
+
 https://github.com/user-attachments/assets/c7fec993-abbf-4dc7-a231-da0e6ffba346
