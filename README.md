@@ -111,8 +111,5 @@ Updates product + auto creates stock log.
 
 Returns product stock change logs.
 
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/8370c277-4721-4859-877c-48fba29a0bf8" />
 
-
-
-
-If you need more features like sorting, dark mode, authentication, or dashboard stats — just ask!
